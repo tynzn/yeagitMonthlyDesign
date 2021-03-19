@@ -18,7 +18,7 @@
 		<header id="masthead" class="site-header">
 		<div class="site-branding">
 			<h1 class="site-title"><a href="index.html" rel="home">Yeagit</a></h1>
-			<h2 class="site-description">Select the website design that best represent your brand and proceed to make payment </h2>
+			<h2 class="site-description">Kindly Fill the information in the form provided below <br>Select the website design that best represent your brand and proceed to make payment </h2>
 		</div>
 		<nav id="site-navigation" class="main-navigation">
 		<button class="menu-toggle">Menu</button>
