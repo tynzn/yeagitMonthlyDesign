@@ -53,17 +53,7 @@
 				<main id="main" class="site-main">
 				<div class="grid portfoliogrid">
 				
-					<article class="hentry">
-					<header class="entry-header">
-					<div class="entry-thumbnail">
-						<a href="https://bit.ly/yeagitadio"><img src="img/adio 1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="p1"/></a>
-					</div>
-					<h2 class="entry-title"><a href="https://bit.ly/yeagitadio" rel="bookmark">Adio website Design</a></h2>
-					<a class='portfoliotype' href='#'>Professional</a>
-					<a class='portfoliotype' href='#'>Smart</a>
-					<a class='portfoliotype' href='#'>Confident</a>
-					</header>
-					</article>
+					
 					
 					<article class="hentry">
 					<header class="entry-header">
@@ -122,6 +112,17 @@
 					<a class='portfoliotype' href='#'>Professional</a>
 					<a class='portfoliotype' href='#'>Sleek</a>
 					<a class='portfoliotype' href='#'>Classy</a>
+					</header>
+					</article>
+					<article class="hentry">
+					<header class="entry-header">
+					<div class="entry-thumbnail">
+						<a href="https://bit.ly/yeagitadio"><img src="img/adio 1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="p1"/></a>
+					</div>
+					<h2 class="entry-title"><a href="https://bit.ly/yeagitadio" rel="bookmark">Adio website Design</a></h2>
+					<a class='portfoliotype' href='#'>Professional</a>
+					<a class='portfoliotype' href='#'>Smart</a>
+					<a class='portfoliotype' href='#'>Confident</a>
 					</header>
 					</article>
 					
